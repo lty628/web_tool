@@ -9,9 +9,6 @@
 线上地址
 > [http://tool.xcdao.com/](http://tool.xcdao.com/)
 
-## 预览
-
-![preview](./static/preview.png)
 
 ## 开发
 
