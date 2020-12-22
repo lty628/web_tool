@@ -10,7 +10,7 @@ export default {
     url:
         process.env.NODE_ENV === 'development'
             ? 'http://dev.miku.tools:3000'
-            : 'http://xcdao.com',
+            : 'http://tool.xcdao.com',
     apiUrl:
         process.env.NODE_ENV === 'development'
             ? 'http://dev.miku.tools:3001'

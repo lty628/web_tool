@@ -1,1 +1,1 @@
-> [http://xcdao.com](http://xcdao.com)
+> [http://tool.xcdao.com](http://tool.xcdao.com)
